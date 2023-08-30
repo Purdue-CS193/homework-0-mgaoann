@@ -28,7 +28,7 @@ Syntax highlighted code block
 
 # Maggie's First CS193 Homework
 
-- My favorite things about CS193:
+- CS193 will help me in my other classes
 - I have a friend in CS193 :))
 - CS193 has easy homework
   
